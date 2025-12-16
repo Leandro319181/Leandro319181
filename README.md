@@ -35,11 +35,10 @@ Aqui estão as tecnologias com as quais trabalho:
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro319181&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
 </p>
 
-*(Nota: Substitua `YOUR_USERNAME` nas URLs acima pelo seu nome de usuário real do GitHub para ver suas estatísticas)*
 
 ---
 
 ## 📫 Como me encontrar
 
-- **LinkedIn**: [linkedin.com/in/seu-perfil](https://linkedin.com)
-- **Email**: [seu-email@exemplo.com](mailto:leandroudimg1@gmail.com)
+- **LinkedIn**:(https://linkedin.com/in/leandrosantos)
+- **Email**: (mailto:leandroudimg1@gmail.com)
