@@ -36,16 +36,29 @@ Grelha semanal interativa para criar escalas, com gravação automática e valid
 
 **Stack:** Python · FastAPI · PostgreSQL · Jinja2 · JavaScript
 
-<!-- PRINT DA API ESCALA AQUI -->
+<p>
+<img width="49%" alt="Escala semanal" src="https://github.com/user-attachments/assets/dc98df5c-5b9e-41dd-8952-61255c902c5a" />
+<img width="49%" alt="Validação de turnos" src="https://github.com/user-attachments/assets/b56d10b3-d126-4439-8160-de9439ad5382" />
+</p>
+<p>
+<img width="49%" alt="Painel" src="https://github.com/user-attachments/assets/b284f069-f03a-4f2a-bd24-73ade763a7d9" />
+<img width="49%" alt="Colaboradores" src="https://github.com/user-attachments/assets/8d46716e-257f-408f-9bd9-034918bb2363" />
+</p>
+
+
+
+
 
 ### 💑 Sistema ECC — Plataforma de gestão de eventos
 Painel de administração com autenticação, registo de participantes, tesouraria e upload de fotografias.
 
 **Stack:** Python · Django · PostgreSQL · Railway
 
-<img width="772" height="1012" alt="ecc-login" src="https://github.com/user-attachments/assets/69308ee8-4b32-4bb2-bada-83f0f73079b7" />
-<img width="2504" height="1748" alt="ecc-painel" src="https://github.com/user-attachments/assets/1ee42e1d-7f5b-4e53-9641-58b138d289be" />
-<img width="2506" height="1742" alt="ecc-tesouraria" src="https://github.com/user-attachments/assets/305cceca-5d73-42ca-bd3a-e96da0eef86d" />
+<p>
+<img width="66%" alt="Painel" src="https://github.com/user-attachments/assets/1ee42e1d-7f5b-4e53-9641-58b138d289be" />
+<img width="32%" alt="Login" src="https://github.com/user-attachments/assets/69308ee8-4b32-4bb2-bada-83f0f73079b7" />
+</p><img width="2142" height="1738" alt="ecc-tesouraria" src="https://github.com/user-attachments/assets/4499eed2-a845-426c-b966-6b0fe0ba628a" />
+
 
 
 ### 📜 Gerador de Certificados
@@ -53,4 +66,11 @@ Gera certificados em PDF a partir dos dados dos formandos, eliminando o preenchi
 
 **Stack:** Python · Flask · Railway
 
-<!-- PRINT DO GERADOR AQUI -->
+<p>
+<img width="49%" alt="Certificado gerado" src="https://github.com/user-attachments/assets/70c8979c-fffa-4edf-be84-c0137c8bb19e" />
+<img width="49%" alt="Ecrã inicial" src="https://github.com/user-attachments/assets/bdc9c480-9530-40b3-83b1-734e0506c86f" />
+</p>
+<p>
+<img width="66%" alt="Formulário de certificados" src="https://github.com/user-attachments/assets/4203bffb-e5f9-4f84-9188-d94547f79dcc" />
+<img width="32%" alt="Formulário da carteirinha" src="https://github.com/user-attachments/assets/bdadf21d-73de-4465-ae05-fb4f5ce395db" />
+</p>
