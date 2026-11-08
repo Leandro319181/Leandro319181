@@ -1,44 +1,53 @@
-# Olá, eu sou Leandro 👋
+# Olá, sou o Leandro 👋
 
-### 🚀 Desenvolvedor Júnior | Entusiasta de Python & React
+**Python Backend Developer** em Loulé, Portugal. Desenvolvo APIs, sistemas de gestão e agentes de IA para WhatsApp, da base de dados ao deploy.
 
-Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por criar aplicações web e resolver problemas complexos.
+- 📍 Disponível para **freelance**, remoto ou híbrido
+- 📫 portugal31071981@gmail.com
 
----
+## 🛠️ Tecnologias
 
-## 📚 O que estou estudando agora
+- **Backend:** Python · FastAPI · Django · Flask · SQLAlchemy · APIs REST · JWT
+- **Bases de dados:** PostgreSQL · SQLite
+- **IA:** Groq / Llama 3.3 · Whisper · agentes com ferramentas · WhatsApp (Z-API)
+- **Frontend:** React · TypeScript · HTML · CSS
+- **Deploy:** Railway · Vercel · Git
 
-Atualmente estou aprofundando meus conhecimentos em:
+## 🚀 Projetos em produção
 
-- **Django**: Explorando padrões avançados e construção de APIs robustas.
-- **React**: Dominando Hooks, Context API e gerenciamento de estado.
-- **Python**: Aprimorando algoritmos e estruturas de dados.
+> O código destes projetos é privado. Posso fazer uma demonstração ou mostrar o código numa entrevista.
 
----
+### 🏥 ClinicaBot — Agente de IA no WhatsApp para clínicas
+O paciente marca a consulta por WhatsApp, sem intervenção humana. Inclui um painel de gestão para a clínica e consentimento RGPD.
 
-## 🛠️ Tecnologias e Ferramentas
+**Stack:** FastAPI · PostgreSQL · Groq · Z-API · React · TypeScript · Railway · Vercel
 
-Aqui estão as tecnologias com as quais trabalho:
+<!-- PRINT E VÍDEO DO CLINICABOT AQUI -->
 
-<p align="left">
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python" />
-  <img src="https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white" alt="Django" />
-  <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="React" />
-</p>
+### 🎙️ Tradução de áudio em tempo real
+Tradução simultânea de português para inglês, usada nos cultos de uma comunidade local.
 
----
+**Stack:** Python · Whisper · Groq
 
-## 📊 Estatísticas do GitHub
+<!-- PRINT E VÍDEO DA TRADUÇÃO AQUI -->
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Leandro319181&show_icons=true&theme=dracula&hide_border=true" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Leandro319181&layout=compact&theme=dracula&hide_border=true" alt="Top Languages" />
-</p>
+### 🏨 API Escala — SaaS de escalas de trabalho para hotéis
+Grelha semanal interativa para criar escalas, com gravação automática e validação de turnos e pausas.
 
+**Stack:** Python · FastAPI · PostgreSQL · Jinja2 · JavaScript
 
----
+<!-- PRINT DA API ESCALA AQUI -->
 
-## 📫 Como me encontrar
+### 💑 Sistema ECC — Plataforma de gestão de eventos
+Painel de administração com autenticação, registo de participantes, tesouraria e upload de fotografias.
 
-- **LinkedIn**:(https://linkedin.com/in/leandrosantos)
-- **Email**: (mailto:leandroudimg1@gmail.com)
+**Stack:** Python · Django · PostgreSQL · Railway
+
+<!-- PRINT DO SISTEMA ECC AQUI -->
+
+### 📜 Gerador de Certificados
+Gera certificados em PDF a partir dos dados dos formandos, eliminando o preenchimento manual.
+
+**Stack:** Python · Flask · Railway
+
+<!-- PRINT DO GERADOR AQUI -->
