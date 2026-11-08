@@ -43,7 +43,10 @@ Painel de administração com autenticação, registo de participantes, tesourar
 
 **Stack:** Python · Django · PostgreSQL · Railway
 
-<!-- PRINT DO SISTEMA ECC AQUI -->
+<img width="772" height="1012" alt="ecc-login" src="https://github.com/user-attachments/assets/69308ee8-4b32-4bb2-bada-83f0f73079b7" />
+<img width="2504" height="1748" alt="ecc-painel" src="https://github.com/user-attachments/assets/1ee42e1d-7f5b-4e53-9641-58b138d289be" />
+<img width="2506" height="1742" alt="ecc-tesouraria" src="https://github.com/user-attachments/assets/305cceca-5d73-42ca-bd3a-e96da0eef86d" />
+
 
 ### 📜 Gerador de Certificados
 Gera certificados em PDF a partir dos dados dos formandos, eliminando o preenchimento manual.
